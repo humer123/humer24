@@ -16,7 +16,7 @@ const GithubLink = 'https://github.com/humer123';
             <div class="sm:text-center lg:py-12 lg:text-left xl:py-24">
                 <p class="mb-4 font-semibold text-gray-600 md:mb-6 md:text-lg xl:text-xl">Getting to know</p>
 
-                <h1 class="mb-8 text-4xl font-bold text-cyan-700 sm:text-5xl md:mb-12">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</h1>
+                <h1 class="mb-8 text-4xl font-bold text-cyan-700 sm:text-5xl md:mb-12">Try new activities and hobbies to discover what you enjoy.</h1>
 
                 <div class="flex flex-col gap-2.5 sm:flex-row sm:justify-center lg:justify-start">
                     <router-link to="/contact" href="#"
