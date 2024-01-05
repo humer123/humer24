@@ -70,8 +70,8 @@ const GithubLink = 'https://github.com/humer123';
             </div>
         </div>
         <div class="h-48 overflow-hidden rounded-lg bg-gray-100 shadow-lg lg:h-auto xl:w-5/12">
-            <img src="https://scontent.fceb2-2.fna.fbcdn.net/v/t39.30808-6/353656302_6367955189940455_5416853282714107068_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeF7517OHYrKwbbcWMDcrwq3ZA5Wu-uqzZpkDla766rNmmGek4mzNe1QK36teTWj0OWfwtC4AcLO7Wv4tvh-Hrlr&_nc_ohc=Tps8Anr-yDUAX_pvJKR&_nc_ht=scontent.fceb2-2.fna&oh=00_AfCa0vGfwSSwaZTsj5zHlGFQEQ_uU_y-fwnmoqu6__WmJg&oe=65876996"
-                loading="lazy" alt="Photo by Fakurian Design" class="h-full w-full object-cover object-center" />
+            <img src="../assets/mer.jpg"
+                loading="lazy" alt="Photo by  humer" class="h-full w-full object-cover object-center" />
         </div>
     </section>
 </template>

@@ -3,7 +3,8 @@ import HomeView from '../views/HomeView.vue';
 import AboutView from '../views/AboutView.vue';
 import ProjectsView from '../views/ProjectsView.vue';
 import ContactView from '../views/ContactView.vue';
-// import Todo from '../views/Todo.vue';
+import Todo from '../views/Todo.vue';
+import ProjectView from '../views/ProjectView.vue';
 
 const routes = [
   {
@@ -26,11 +27,16 @@ const routes = [
     name: 'contact',
     component: ContactView
   },
-//   {
-//     path: '/todo',
-//     name: 'todo',
-//     component: Todo
-//   },
+  {
+    path: '/Todo',
+    name: 'Todo',
+    component: Todo
+  },
+  {
+    path: '/Project',
+    name: 'Project',
+    component: ProjectView
+  },
 ]
 
 const router = createRouter({
